@@ -1,0 +1,31 @@
+<html>
+<h1>
+<center><p><font color="Black">Notre-Dame RVM College of cotabato</font></p></center>
+<center><p> Cotabato City</p>
+<p><h4><center><font color="black">fahanieabdulrahman21@gmail.com</font></p></center>
+</h1>
+<h1><center><font color="Black"> Personal Information</font></center><h1>
+<h3>
+<p><font color="Black">&emsp;Age:</font>&emsp;17</p>
+<p><font color="Black">&emsp;Birthdate:</font>&emsp;August 07, 2000</p>
+<p><font color="Black">&emsp;Present Address:</font>&emsp;First Road, S.P.D.A, Semba, D.O.S, Maguindanao</p>
+<p><font color="Black">&emsp;Religion:</font>&emsp;Islam</p>
+<p><font color="Black">&emsp;Citizenship:</font>&emsp;Filipino</p>
+<p><font color="Black">&emsp;Email Address:</font>&emsp;arrahamilil@gmail.com</p>
+</h3>
+<h1><center><font color="Black">Educational Background</font></center></h1>
+<h3>
+
+<p><h2>Kinder:<h3>Broce Central School Of Peace</p>
+<p><h2>Primary:<h3>Broce Central School Of Peace</p>
+<p><h2>Secodary:<h3>Dar-al Uloom Wal Hikmah</p>
+<p><h3>And</p></h3>
+<p><h3>ND-RVMCC</p></h3>
+<p><h2>Senior High:<h3>ND-RVMCC</p>
+</h3>
+<h1><center><font color="Black">Skills</font></center></h1>
+<p><h3>I'm good in playing badminton and writing fictional stories in wattpad.</p></h3>
+<h1><center><font color="Black">Objectives</font></center></h1>
+<p><h3><font color="Black">To to be able to learn about html and to practice myself interms of creating my own resume which cotains my personality.</font></h3></p>
+<h1><center><font color="black">Personal Qualities</h1></center></font>
+<p><h3>Puctual:<h4>I can make my tasks ontime</p></h3>
